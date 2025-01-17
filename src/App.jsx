@@ -51,7 +51,7 @@ function Calculator() {
           <button onClick={() => input("1")}>1</button>
           <button onClick={() => input("2")}>2</button>
           <button onClick={() => input("3")}>3</button>
-          <button onClick={() => input("⌫")}>C</button>
+          <button onClick={() => input("⌫")}>⌫</button>
         </div>
         <div className="calc-row">
           <button onClick={() => input("4")}>4</button>
